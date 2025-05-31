@@ -1,0 +1,5 @@
+easyocr
+pdf2image
+numpy
+Pillow
+python-docx

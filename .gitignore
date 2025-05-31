@@ -1,0 +1,33 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+
+# Test outputs
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Distribution/build
+dist/
+build/
+*.egg-info/
