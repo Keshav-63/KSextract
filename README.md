@@ -14,7 +14,7 @@ Extract text from images, PDFs, and DOCX files using EasyOCR.
 ```bash
 pip install KSextract
 ```
-# Usage
+## Usage
 
 ```bash
 from KSextract import extract_text
@@ -28,9 +28,11 @@ print(extract_text("image.png"))
 # Extract text from a DOCX file
 print(extract_text("document.docx"))
 ```
-# Supported Formats
+## Supported Formats
 
+```bash
 Images: .jpg, .jpeg, .png, .bmp, .tiff
 PDF: .pdf
 Word: .docx
 More Coming Soon..
+```
